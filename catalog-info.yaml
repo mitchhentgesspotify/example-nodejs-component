@@ -2,7 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "example-nodejs-component"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: user:static
+  owner: group:default/iap-users
   lifecycle: experimental

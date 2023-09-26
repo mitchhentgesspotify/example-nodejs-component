@@ -1,0 +1,5 @@
+site_name: 'example-nodejs-component'
+
+nav:
+  - Home: index.md
+
