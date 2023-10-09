@@ -6,5 +6,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: group:default/iap-users
+  owner: user:default/mbentell
   lifecycle: experimental
