@@ -6,5 +6,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: user:default/mbentell
+  owner: user:default/mitchhentgesspotify
   lifecycle: experimental
